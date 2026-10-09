@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/agent-governance-toolkit/commit/d93e32c526ef1a7282cfb3508665e8293cf05800",
       "git:hexsha": "d93e32c526ef1a7282cfb3508665e8293cf05800",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]

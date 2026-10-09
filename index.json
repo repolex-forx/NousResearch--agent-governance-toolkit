@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "agent-governance-toolkit",
+  "versions": [
+    {
+      "commit": "d93e32c526ef1a7282cfb3508665e8293cf05800",
+      "tag": "main",
+      "parsed_at": "2026-10-09T13:08:02.826219+00:00"
+    }
+  ]
+}
